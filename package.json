@@ -1,0 +1,19 @@
+{
+  "name": "time-clock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "clock.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KCampbell22/time-clock.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KCampbell22/time-clock/issues"
+  },
+  "homepage": "https://github.com/KCampbell22/time-clock#readme"
+}
