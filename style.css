@@ -12,3 +12,20 @@ span{
     line-height: 20px;
     border-bottom: 1px solid black;
 }
+
+#week-grid{
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    grid-template-rows: repeat(4, 1fr);
+    grid-gap: 5px;
+    width: 100%;
+}
+
+.day{
+    border: 1px solid black;
+    padding: 5px;
+    display: flex;
+    min-height: 300px;
+    
+    justify-content: flex-start;
+}

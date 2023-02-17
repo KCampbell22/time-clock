@@ -1,0 +1,57 @@
+
+
+
+
+{
+    "weeks": [
+        {
+            "id": "1",
+            "weekRange": "2023-02-16 - 2023-02-22",
+            "days": [
+                {
+                    "id": "1",
+                    "date": "2023-02-16",
+                    "name": "Monday",
+                    "hoursWorked": "4"
+                },
+                {
+                    "id": "2",
+                    "date": "2023-02-17",
+                    "name": "Tuesday",
+                    "hoursWorked": "5"
+                },
+                {
+                    "id": "3",
+                    "date": "2023-02-18",
+                    "name": "Wednesday",
+                    "hoursWorked": "7"
+                },
+                {
+                    "id": "4",
+                    "date": "2023-02-19",
+                    "name": "Thursday",
+                    "hoursWorked": "8"
+                },
+                {
+                    "id": "5",
+                    "date": "2023-02-20",
+                    "name": "Friday",
+                    "hoursWorked": ""
+                },
+                {
+                    "id": "6",
+                    "date": "2023-02-21",
+                    "name": "Saturday",
+                    "hoursWorked": ""
+                },
+                {
+                    "id": "7",
+                    "date": "2023-02-22",
+                    "name": "Sunday",
+                    "hoursWorked": ""
+                }
+            ]
+
+        }
+    ]
+}
